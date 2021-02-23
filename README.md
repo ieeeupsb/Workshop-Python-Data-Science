@@ -7,8 +7,8 @@ Workshop focused on Python's data science tools such as NumPy, Matplotlib, SymPy
 1. [IPython](notebooks/IPython.ipynb)
 2. [NumPy](notebooks/Numpy.ipynb)
 3. [Matplotlib](notebooks/Matplotlib.ipynb)  
-    2. [Simple Plots](notebooks/Simple%20Plots.ipynb)  
-    3. [Other Plots](notebooks/Other%20Plots.ipynb)  
+    2. [Simple Plots](notebooks/SimplePlots.ipynb)  
+    3. [Other Plots](notebooks/OtherPlots.ipynb)  
     4. [Sub Plots](notebooks/Subplots.ipynb)  
 4. [SymPy](notebooks/SymPy.ipynb)
 5. [Pandas]() ~ To be released
