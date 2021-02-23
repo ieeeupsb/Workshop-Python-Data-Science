@@ -4,24 +4,23 @@ Workshop focused on Python's data science tools such as NumPy, Matplotlib, SymPy
 
 # Content
 
-1. [IPython](https://tiagodusilva.github.io/workshop-python-data-science-tools/IPython.html)
-2. [NumPy](https://tiagodusilva.github.io/workshop-python-data-science-tools/NumPy.html)
-3. Matplotlib
-    1. [Matplotlib](https://tiagodusilva.github.io/workshop-python-data-science-tools/Matplotlib.html)
-    2. [Simple Plots](https://tiagodusilva.github.io/workshop-python-data-science-tools/Simple%20Plots.html)
-    3. [Other Plots](https://tiagodusilva.github.io/workshop-python-data-science-tools/Other%20Plots.html)
-    4. [Sub Plots](https://tiagodusilva.github.io/workshop-python-data-science-tools/Subplots.html)
-4. [SymPy](https://tiagodusilva.github.io/workshop-python-data-science-tools/SymPy.html)
+1. [IPython](notebooks/IPython.ipynb)
+2. [NumPy](notebooks/Numpy.ipynb)
+3. [Matplotlib](notebooks/Matplotlib.ipynb)  
+    2. [Simple Plots](notebooks/Simple%20Plots.ipynb)  
+    3. [Other Plots](notebooks/Other%20Plots.ipynb)  
+    4. [Sub Plots](notebooks/Subplots.ipynb)  
+4. [SymPy](notebooks/SymPy.ipynb)
 5. [Pandas]() ~ To be released
 
 # Exercises and Solutions
 
-1. [Exercises](https://tiagodusilva.github.io/workshop-python-data-science-tools/Exercises.html)
-2. [Challenges](https://tiagodusilva.github.io/workshop-python-data-science-tools/Challenges.html)
+1. [Exercises](notebooks/Exercises.ipynb)
+2. [Challenges](notebooks/Challenges.ipynb)
 
 # Required Resources
 
-An IDE, text editor or shell for Python development 
+An IDE, text editor or shell for Python development.
 
 - [Anaconda](https://www.anaconda.com/products/individual): Installs python and all the required modules for you, recommended for an easier setup.
 - [Google Collab](https://colab.research.google.com): Virtual environment with everything setup.
