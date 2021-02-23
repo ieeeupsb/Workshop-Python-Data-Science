@@ -4,14 +4,14 @@ Workshop focused on Python's data science tools such as NumPy, Matplotlib, SymPy
 
 # Content
 
-1. [IPython](notebooks/IPython.ipynb)
-2. [NumPy](notebooks/Numpy.ipynb)
-3. [Matplotlib](notebooks/Matplotlib.ipynb)  
-    2. [Simple Plots](notebooks/SimplePlots.ipynb)  
-    3. [Other Plots](notebooks/OtherPlots.ipynb)  
-    4. [Sub Plots](notebooks/Subplots.ipynb)  
-4. [SymPy](notebooks/SymPy.ipynb)
-5. [Pandas]() ~ To be released
+1. IPython - [Notebook](notebooks/IPython.ipynb) / [Webpage](https://ieeeupsb.github.io/workshop-python-data-science-tools/html/IPython.html)
+2. NumPy - [Notebook](notebooks/Numpy.ipynb) / [Webpage](https://ieeeupsb.github.io/workshop-python-data-science-tools/html/Numpy.html)
+3. Matplotlib - [Notebook](notebooks/Matplotlib.ipynb) / [Webpage](https://ieeeupsb.github.io/workshop-python-data-science-tools/html/Matplotlib.html)   
+    1. Simple Plots - [Notebook](notebooks/SimplePlots.ipynb) / [Webpage](https://ieeeupsb.github.io/workshop-python-data-science-tools/html/SimplePlots.html)   
+    2. Other Plots - [Notebook](notebooks/OtherPlots.ipynb) / [Webpage](https://ieeeupsb.github.io/workshop-python-data-science-tools/html/OtherPlots.html)   
+    3. Sub Plots - [Notebook](notebooks/Subplots.ipynb) / [Webpage](https://ieeeupsb.github.io/workshop-python-data-science-tools/html/Subplots.html)   
+4. SymPy - [Notebook](notebooks/SymPy.ipynb) / [Webpage](https://ieeeupsb.github.io/workshop-python-data-science-tools/html/SymPy.html)
+5. Pandas ~ *To be released*
 
 # Exercises and Solutions
 
