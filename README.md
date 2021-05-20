@@ -40,5 +40,5 @@ Also don't forget to add the Python folder to the PATH if not present already.
 
 ## Authors
 
-- Eduardo Correia (@educorreia932)
-- Tiago Silva (@tiagodusilva)
+- Eduardo Correia ([@educorreia932](https://github.com/Educorreia932))
+- Tiago Silva ([@tiagodusilva](https://github.com/tiagodusilva))
